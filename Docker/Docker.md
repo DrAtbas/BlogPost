@@ -55,4 +55,4 @@ The following output should appear:
 Hello, Docker World!
 ```
 
-Here it is, you can now deploy your Hello World program to be run on any other computer with Docker. If you would like to know more how you can apply docker on your project, Research IT provides [Introduction to Docker](http://app.manchester.ac.uk/RDOCKER) course and the course notes in detail can be found [here](https://uomresearchit.github.io/docker-introduction/).
+Here it is, you can now deploy your Hello World program to be run on any other computer with Docker. If you would like to know more how you can apply docker on your project, Research IT provides [Introduction to Docker](http://app.manchester.ac.uk/RDOCKER) course and the course notes in detail can be found [here](https://uomresearchit.github.io/docker-introduction/). You can find the docker course and any other courses offered by us [here](https://www.staffnet.manchester.ac.uk/talent-development/learning-pathways/professional-and-technical-development/digital-skills/research-computing/).
